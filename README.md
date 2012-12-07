@@ -42,6 +42,7 @@ Categories:
 > 9 => Sales Marketing
 
 
-For more help, visit http://mvcejas.com or http://blog.mvcejas.com
+For more help, visit http://blog.mvcejas.com/tag/wordpressplugin
+Hire me at http://mvcejas.com
 
 
