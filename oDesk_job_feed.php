@@ -1,7 +1,7 @@
 <?php
 /**
 * Plugin Name: oDesk Job Feeds
-* Plugin URI: blog.mvcejas.com
+* Plugin URI: http://blog.mvcejas.com/odesk-job-feed-wordpress-plugin
 * Description: oDesk job feed let you see the latest jobs posted on oDesk.
 * Author: Mar Cejas
 * Version: 1.0
