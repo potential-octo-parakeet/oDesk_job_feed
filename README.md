@@ -5,7 +5,7 @@ oDesk job feed let you see the latest jobs posted on oDesk.
 
 How to install:
 
-> Download oDesk_Job_Feed.zip
+> Download oDesk_Job_Feed.zip.
 > Install plugin by uploading on your wordpress plugin page; or extract to your plugin directory.
 > Activate plugin
 
