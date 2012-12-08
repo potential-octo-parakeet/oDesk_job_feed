@@ -54,7 +54,7 @@ oDesk job feed let you see the latest jobs posted on oDesk.
 
 > 8 => Design and Multimedia
 
-9 => Sales Marketing
+> 9 => Sales Marketing
 
 
 
