@@ -1,7 +1,7 @@
 === oDesk Job Feed ===
 Contributors: mvcejas
 Donate link: blog.mvcejas.com
-Tags: odesk,odesk job feed
+Tags: odesk,odesk job feeds
 Requires at least: 3.3
 Tested up to: 3.4
 Stable tag: 
@@ -12,7 +12,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-oDesk job feed let you see the latest jobs posted on oDesk.
+oDesk jobs feed provides an easy way integration from https://www.oDesk.com job lists. No need an API key, just plug-it to your wordpress websites and you're ready to go. Using a shortcode, you can select which content feeds to include on your site (please see installation instructions for more details).
+
 
 
 
