@@ -58,7 +58,7 @@ function categories($cat){
 function oJobs($cat = 0){
 	$o = '<div id="oDeskJobFeed">';
 	$o.= '<ul class="oFeedList">';
-	if($rss = simplexml_load_file(categories($cat))){
+	if($rss = @simplexml_load_file(categories($cat))){
 		foreach($rss->channel->item as $item):
 			$o.= '<li>';			
 			$o.= '<h3><a href="'.$item->link.'" target=_blank>'.$item->title .'</a></h3>';			   
