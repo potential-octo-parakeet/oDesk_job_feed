@@ -63,7 +63,7 @@ function oJobs($cat = 0){
 			$o.= '<li>';			
 			$o.= '<h3><a href="'.$item->link.'" target=_blank>'.$item->title .'</a></h3>';			   
 			$o.= '<i>Job posted on '.$item->pubDate. '</i>';
-			$o.= '<p>'. @nofollow($item->description) .'</p>';
+			$o.=  content($item->description);
 			$o.= '</li>';
 		endforeach; 
 		if(!isset($item)) 
@@ -77,7 +77,7 @@ function oJobs($cat = 0){
 	return $o;
 }
 
-function nofollow($str){
+function content($str){
 	$dom = new DOMDocument();
 	$dom->preserveWhitespace = FALSE;
 	$dom->loadHTML($str);
@@ -97,7 +97,7 @@ function nofollow($str){
 			}			
 			
 	}
-	
+
 	$c = '';
 	$body = $dom->getElementsByTagName('body')->item(0);
 	foreach($body->childNodes as $child) {
