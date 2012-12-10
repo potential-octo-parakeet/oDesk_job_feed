@@ -97,6 +97,13 @@ function nofollow($str){
 			}			
 			
 	}
-	return $dom->saveHTML();
+	
+	$c = '';
+	$body = $dom->getElementsByTagName('body')->item(0);
+	foreach($body->childNodes as $child) {
+		$c .= $body->ownerDocument->saveHTML($child);
+	}
+
+	return $c;	
 }
 ?>
