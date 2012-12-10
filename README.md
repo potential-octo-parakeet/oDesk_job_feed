@@ -1,7 +1,8 @@
 oDesk_job_feed
 ==============
 
-oDesk job feed let you see the latest jobs posted on oDesk.
+oDesk jobs feed provides an easy way integration from https://www.oDesk.com job lists. No need an API key, just plug-it to your wordpress websites and you're ready to go. Using a shortcode, you can select which content feeds to include on your site (please see installation instructions for more details).
+
 
 How to install:
 
