@@ -61,6 +61,9 @@ oDesk jobs feed provides an easy way integration from https://www.oDesk.com job 
 
 == Frequently asked questions ==
 
+Where I can the installation support?
+
+You can find the installation support at https://github.com/mvcejas/oDesk_job_feed/ or http://blog.mvcejas.com/odesk-job-feed-wordpress-plugin by leaving a comment.
 
 
 == Screenshots ==
