@@ -1,6 +1,6 @@
 === oDesk Job Feed ===
 Contributors: mvcejas
-Donate link: blog.mvcejas.com
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QV6BMEMKULBH8
 Tags: odesk,odesk job feeds
 Requires at least: 3.3
 Tested up to: 3.4
